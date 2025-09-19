@@ -6,3 +6,6 @@
     - Networking projects from Semester 1 and Semester 2 of Year 2
     - Detailed Report on the network and all the implementations done
     - A cisco packet tracer file containing both networks fully accessible for viewing
+
+Notes: 
+    - Work done fully and solely by myself from what I have learned from my time in Year 2 of my course
